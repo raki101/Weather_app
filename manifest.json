@@ -1,0 +1,10 @@
+{
+    "name": "weatherApp",
+    "short_name": "we App",
+    "start_url": "/index.html",
+    "display": "standalone", //nativeapp
+    "background-color": "#FFE902",
+    "theme_color": "#FFE1C4",
+    "orientation": "portrait-primary",
+    "icons": [{}]
+}
